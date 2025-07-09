@@ -1,9 +1,12 @@
-<img align="center" src="./assets/cover-2.png" alt="Descrição">
+<img align="center" src="./assets/cover-2.png" alt="Descrição"
+max-width="400px">
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-O áudio gerado está aqui: [áudio](./output/podcast.mp3). Acesse o readme do desafio proposto aqui: [Desafio DIO.](./README.MD)
+O áudio gerado está aqui: [áudio](./output/podcast.mp3). Acesse o readme do desafio proposto aqui: [Desafio DIO.](./src/desafio.MD)
+
+<audio controls src="./output/podcast.mp3" style="width: 100%;">
 
 # 🎙️ Podcast: O Gênesis Algorítmico
 
