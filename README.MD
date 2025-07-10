@@ -1,5 +1,4 @@
-<img align="center" src="./assets/cover-2.png" alt="Descrição"
-max-width="400px">
+<img src="./assets/cover-2.png" alt="Descrição" style="min-width: 150px;width: 50%;">
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
