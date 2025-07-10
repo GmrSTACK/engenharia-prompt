@@ -1,4 +1,4 @@
-<img src="./assets/cover-2.png" alt="Descrição" style="min-width: 150px;width: 50%;">
+<img src="./assets/cover-2.png" alt="Descrição" style="min-width: 150px;width: 50%; text-align: center;">
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -103,7 +103,7 @@ astronaut watching a coronal mass ejection, sun, space, stars, cinematic, 8k, un
 
 Resultado:
 
-![Foto de um astronauta](./astronauta.png)
+<img src="./astronauta.png" alt="astronauta olhando para o sol." style="min-width: 150px;width: 50%; text-align: center;">
 
 
 ## Fontes para aprofundamento
