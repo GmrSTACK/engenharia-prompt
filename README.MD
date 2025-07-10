@@ -5,8 +5,6 @@
 
 O áudio gerado está aqui: [áudio](./output/podcast.mp3). Acesse o readme do desafio proposto aqui: [Desafio DIO.](./src/desafio.MD)
 
-<audio controls src="./output/podcast.mp3" style="width: 100%;">
-
 # 🎙️ Podcast: O Gênesis Algorítmico
 
 Fala, pessoal! Neste repositório, apresento um breve resumo sobre os temas do curso "Microsoft 50 anos" da dio.me, definindo o que é um prompt, como criar bons prompts e técnicas que auxiliam na obtenção de resultados mais precisos da IA.
